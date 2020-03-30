@@ -2,13 +2,12 @@
 // Created by theflilux on 30/03/20.
 //
 
-#ifndef CS2100_SORTING_THEFLILUX_SHESORT_H
-#define CS2100_SORTING_THEFLILUX_SHESORT_H
-
+#ifndef CS2100_SORTING_THEFLILUX_BUBSORT_H
+#define CS2100_SORTING_THEFLILUX_BUBSORT_H
 
 #define MAX 10
 
-class Shesort{
+class Bubsort{
     int n;
     int arr[MAX];
 public:
@@ -19,4 +18,4 @@ public:
 
 
 
-#endif //CS2100_SORTING_THEFLILUX_SHESORT_H
+#endif //CS2100_SORTING_THEFLILUX_BUBSORT_H
