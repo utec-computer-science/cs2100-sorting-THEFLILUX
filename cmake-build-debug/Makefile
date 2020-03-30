@@ -123,6 +123,33 @@ cs2100-sorting-THEFLILUX/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/build
 .PHONY : cs2100-sorting-THEFLILUX/fast
 
+Quisort.o: Quisort.cpp.o
+
+.PHONY : Quisort.o
+
+# target to build an object file
+Quisort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.o
+.PHONY : Quisort.cpp.o
+
+Quisort.i: Quisort.cpp.i
+
+.PHONY : Quisort.i
+
+# target to preprocess a source file
+Quisort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.i
+.PHONY : Quisort.cpp.i
+
+Quisort.s: Quisort.cpp.s
+
+.PHONY : Quisort.s
+
+# target to generate assembly for a file
+Quisort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.s
+.PHONY : Quisort.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... cs2100-sorting-THEFLILUX"
 	@echo "... edit_cache"
+	@echo "... Quisort.o"
+	@echo "... Quisort.i"
+	@echo "... Quisort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

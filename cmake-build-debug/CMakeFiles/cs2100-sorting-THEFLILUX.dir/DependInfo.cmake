@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Quisort.cpp" "/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.o"
   "/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/main.cpp" "/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Quisort.cpp">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Quisort.h">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
 		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/main.cpp">
 			<Option target="cs2100-sorting-THEFLILUX"/>
 		</Unit>
