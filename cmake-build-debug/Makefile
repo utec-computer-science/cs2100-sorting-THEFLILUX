@@ -123,6 +123,33 @@ cs2100-sorting-THEFLILUX/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/build
 .PHONY : cs2100-sorting-THEFLILUX/fast
 
+Shesort.o: Shesort.cpp.o
+
+.PHONY : Shesort.o
+
+# target to build an object file
+Shesort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o
+.PHONY : Shesort.cpp.o
+
+Shesort.i: Shesort.cpp.i
+
+.PHONY : Shesort.i
+
+# target to preprocess a source file
+Shesort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.i
+.PHONY : Shesort.cpp.i
+
+Shesort.s: Shesort.cpp.s
+
+.PHONY : Shesort.s
+
+# target to generate assembly for a file
+Shesort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.s
+.PHONY : Shesort.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... cs2100-sorting-THEFLILUX"
 	@echo "... edit_cache"
+	@echo "... Shesort.o"
+	@echo "... Shesort.i"
+	@echo "... Shesort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
