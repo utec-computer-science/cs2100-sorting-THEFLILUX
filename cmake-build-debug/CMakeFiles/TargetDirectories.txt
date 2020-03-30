@@ -1,3 +1,0 @@
-/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir
-/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles/edit_cache.dir
