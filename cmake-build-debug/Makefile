@@ -123,6 +123,33 @@ cs2100-sorting-THEFLILUX/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/build
 .PHONY : cs2100-sorting-THEFLILUX/fast
 
+Mersort.o: Mersort.cpp.o
+
+.PHONY : Mersort.o
+
+# target to build an object file
+Mersort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.o
+.PHONY : Mersort.cpp.o
+
+Mersort.i: Mersort.cpp.i
+
+.PHONY : Mersort.i
+
+# target to preprocess a source file
+Mersort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.i
+.PHONY : Mersort.cpp.i
+
+Mersort.s: Mersort.cpp.s
+
+.PHONY : Mersort.s
+
+# target to generate assembly for a file
+Mersort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.s
+.PHONY : Mersort.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... cs2100-sorting-THEFLILUX"
 	@echo "... edit_cache"
+	@echo "... Mersort.o"
+	@echo "... Mersort.i"
+	@echo "... Mersort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
