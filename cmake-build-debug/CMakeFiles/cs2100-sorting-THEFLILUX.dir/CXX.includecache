@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.cpp
+iostream
+-
+Bubsort.h
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.cpp
+iostream
+-
+Inssort.h
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.cpp
+iostream
+-
+Shesort.h
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.h
+
