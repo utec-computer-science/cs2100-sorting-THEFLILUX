@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.cpp
+iostream
+-
+Inssort.h
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h
+
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h
+
 /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/main.cpp
 iostream
 -
+Inssort.h
+/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h
 
