@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.o  -o cs2100-sorting-THEFLILUX 
