@@ -3,6 +3,8 @@
 #include "Inssort.h"
 #include "Selsort.h"
 #include "Shesort.h"
+#include "Mersort.h"
+#include "Quisort.h"
 using namespace std;
 
 int main(){
@@ -32,4 +34,35 @@ int main(){
     obj4.insert_Data();
     obj4.ordenar_Data();
     obj4.mostrar_Data();
+
+    cout<<"\n****Merge Sort*****\n";
+    int n;
+    cout<<"Ingresa la cantidad de elementos a ingresar: ";
+    cin>>n;
+    int arr[n];
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+    }
+
+    Mersort::ordenar_Data(arr,0,n-1);
+
+    for(int i=0;i<n;i++){
+        cout<<arr[i]<<"   ";
+    }
+
+
+    cout<<"\n****Quick Sort*****\n";
+    int h;
+    cout<<"Ingresa la cantidad de elementos a ingresar: ";
+    cin>>h;
+    int arr2[h];
+    for(int i=0;i<h;i++){
+        cin>>arr2[i];
+    }
+
+    Quisort::ordenar_Data(arr2,0,h-1);
+
+    for(int i=0;i<h;i++){
+        cout<<arr2[i]<<"   ";
+    }
 }

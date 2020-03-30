@@ -177,6 +177,60 @@ Inssort.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.s
 .PHONY : Inssort.cpp.s
 
+Mersort.o: Mersort.cpp.o
+
+.PHONY : Mersort.o
+
+# target to build an object file
+Mersort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.o
+.PHONY : Mersort.cpp.o
+
+Mersort.i: Mersort.cpp.i
+
+.PHONY : Mersort.i
+
+# target to preprocess a source file
+Mersort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.i
+.PHONY : Mersort.cpp.i
+
+Mersort.s: Mersort.cpp.s
+
+.PHONY : Mersort.s
+
+# target to generate assembly for a file
+Mersort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Mersort.cpp.s
+.PHONY : Mersort.cpp.s
+
+Quisort.o: Quisort.cpp.o
+
+.PHONY : Quisort.o
+
+# target to build an object file
+Quisort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.o
+.PHONY : Quisort.cpp.o
+
+Quisort.i: Quisort.cpp.i
+
+.PHONY : Quisort.i
+
+# target to preprocess a source file
+Quisort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.i
+.PHONY : Quisort.cpp.i
+
+Quisort.s: Quisort.cpp.s
+
+.PHONY : Quisort.s
+
+# target to generate assembly for a file
+Quisort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Quisort.cpp.s
+.PHONY : Quisort.cpp.s
+
 Selsort.o: Selsort.cpp.o
 
 .PHONY : Selsort.o
@@ -273,6 +327,12 @@ help:
 	@echo "... Inssort.o"
 	@echo "... Inssort.i"
 	@echo "... Inssort.s"
+	@echo "... Mersort.o"
+	@echo "... Mersort.i"
+	@echo "... Mersort.s"
+	@echo "... Quisort.o"
+	@echo "... Quisort.i"
+	@echo "... Quisort.s"
 	@echo "... Selsort.o"
 	@echo "... Selsort.i"
 	@echo "... Selsort.s"

@@ -96,6 +96,18 @@
 		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.h">
 			<Option target="cs2100-sorting-THEFLILUX"/>
 		</Unit>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Mersort.cpp">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Mersort.h">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Quisort.cpp">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
+		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Quisort.h">
+			<Option target="cs2100-sorting-THEFLILUX"/>
+		</Unit>
 		<Unit filename="/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Selsort.cpp">
 			<Option target="cs2100-sorting-THEFLILUX"/>
 		</Unit>

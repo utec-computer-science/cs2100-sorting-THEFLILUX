@@ -12,23 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b00f46ec-44d0-4476-87ee-53fce347c83a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Shesort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shesort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mersort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mersort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quisort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quisort.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cs2100-sorting-THEFLILUX.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cs2100-sorting-THEFLILUX" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cs2100-sorting-THEFLILUX" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cs2100-sorting-THEFLILUX.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cs2100-sorting-THEFLILUX.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -62,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects/shellSort" />
+    <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects/quickSort" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,7 +85,7 @@
       <updated>1585599664149</updated>
       <workItem from="1585599665400" duration="249000" />
       <workItem from="1585599921621" duration="1891000" />
-      <workItem from="1585604528986" duration="337000" />
+      <workItem from="1585604528986" duration="1380000" />
     </task>
     <servers />
   </component>
@@ -100,10 +97,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585599796484" />
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585604572939">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585605641057">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1585604572939" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1585605641057" />
     <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1585604856479">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
