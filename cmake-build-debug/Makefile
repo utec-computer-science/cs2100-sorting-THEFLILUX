@@ -123,6 +123,60 @@ cs2100-sorting-THEFLILUX/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/build
 .PHONY : cs2100-sorting-THEFLILUX/fast
 
+Bubsort.o: Bubsort.cpp.o
+
+.PHONY : Bubsort.o
+
+# target to build an object file
+Bubsort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o
+.PHONY : Bubsort.cpp.o
+
+Bubsort.i: Bubsort.cpp.i
+
+.PHONY : Bubsort.i
+
+# target to preprocess a source file
+Bubsort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.i
+.PHONY : Bubsort.cpp.i
+
+Bubsort.s: Bubsort.cpp.s
+
+.PHONY : Bubsort.s
+
+# target to generate assembly for a file
+Bubsort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.s
+.PHONY : Bubsort.cpp.s
+
+Inssort.o: Inssort.cpp.o
+
+.PHONY : Inssort.o
+
+# target to build an object file
+Inssort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o
+.PHONY : Inssort.cpp.o
+
+Inssort.i: Inssort.cpp.i
+
+.PHONY : Inssort.i
+
+# target to preprocess a source file
+Inssort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.i
+.PHONY : Inssort.cpp.i
+
+Inssort.s: Inssort.cpp.s
+
+.PHONY : Inssort.s
+
+# target to generate assembly for a file
+Inssort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.s
+.PHONY : Inssort.cpp.s
+
 Selsort.o: Selsort.cpp.o
 
 .PHONY : Selsort.o
@@ -149,6 +203,33 @@ Selsort.s: Selsort.cpp.s
 Selsort.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.s
 .PHONY : Selsort.cpp.s
+
+Shesort.o: Shesort.cpp.o
+
+.PHONY : Shesort.o
+
+# target to build an object file
+Shesort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o
+.PHONY : Shesort.cpp.o
+
+Shesort.i: Shesort.cpp.i
+
+.PHONY : Shesort.i
+
+# target to preprocess a source file
+Shesort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.i
+.PHONY : Shesort.cpp.i
+
+Shesort.s: Shesort.cpp.s
+
+.PHONY : Shesort.s
+
+# target to generate assembly for a file
+Shesort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.s
+.PHONY : Shesort.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... cs2100-sorting-THEFLILUX"
 	@echo "... edit_cache"
+	@echo "... Bubsort.o"
+	@echo "... Bubsort.i"
+	@echo "... Bubsort.s"
+	@echo "... Inssort.o"
+	@echo "... Inssort.i"
+	@echo "... Inssort.s"
 	@echo "... Selsort.o"
 	@echo "... Selsort.i"
 	@echo "... Selsort.s"
+	@echo "... Shesort.o"
+	@echo "... Shesort.i"
+	@echo "... Shesort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

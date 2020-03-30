@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o"
+  "CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o"
   "CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.o"
+  "CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o"
   "CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o"
   "cs2100-sorting-THEFLILUX"
   "cs2100-sorting-THEFLILUX.pdb"

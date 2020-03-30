@@ -83,19 +83,64 @@ CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Selsort.cpp -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.s
 
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o: CMakeFiles/cs2100-sorting-THEFLILUX.dir/flags.make
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o: ../Bubsort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o -c /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.cpp
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.cpp > CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.i
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Bubsort.cpp -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.s
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o: CMakeFiles/cs2100-sorting-THEFLILUX.dir/flags.make
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o: ../Inssort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o -c /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.cpp
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.cpp > CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.i
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Inssort.cpp -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.s
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o: CMakeFiles/cs2100-sorting-THEFLILUX.dir/flags.make
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o: ../Shesort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o -c /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.cpp
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.cpp > CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.i
+
+CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/theflilux/Downloads/cs2100-sorting-THEFLILUX/Shesort.cpp -o CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.s
+
 # Object files for target cs2100-sorting-THEFLILUX
 cs2100__sorting__THEFLILUX_OBJECTS = \
 "CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o" \
-"CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.o"
+"CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.o" \
+"CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o" \
+"CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o" \
+"CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o"
 
 # External object files for target cs2100-sorting-THEFLILUX
 cs2100__sorting__THEFLILUX_EXTERNAL_OBJECTS =
 
 cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/main.cpp.o
 cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/Selsort.cpp.o
+cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/Bubsort.cpp.o
+cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/Inssort.cpp.o
+cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/Shesort.cpp.o
 cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/build.make
 cs2100-sorting-THEFLILUX: CMakeFiles/cs2100-sorting-THEFLILUX.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cs2100-sorting-THEFLILUX"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/theflilux/Downloads/cs2100-sorting-THEFLILUX/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable cs2100-sorting-THEFLILUX"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cs2100-sorting-THEFLILUX.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

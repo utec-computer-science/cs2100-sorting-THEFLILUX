@@ -1,5 +1,8 @@
 #include <iostream>
 #include "Bubsort.h"
+#include "Inssort.h"
+#include "Selsort.h"
+#include "Shesort.h"
 using namespace std;
 
 int main(){
@@ -18,9 +21,15 @@ int main(){
     obj2.mostrar_Data();
   
     cout<<"\n*****Bubble Sort*****\n";
-    Bubsort obj{};
+    Bubsort obj3{};
 
-    obj.insert_Data();
-    obj.ordenar_Data();
-    obj.mostrar_Data();
+    obj3.insert_Data();
+    obj3.ordenar_Data();
+    obj3.mostrar_Data();
+
+    cout<<"\n*****Shield Sort*****\n";
+    Shesort obj4{};
+    obj4.insert_Data();
+    obj4.ordenar_Data();
+    obj4.mostrar_Data();
 }
