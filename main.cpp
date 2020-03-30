@@ -1,11 +1,11 @@
 #include <iostream>
-#include "Bubsort.h"
+#import "Shesort.h"
 using namespace std;
 
 int main(){
-    cout<<"\n*****Bubble Sort*****\n";
-    Bubsort obj{};
-    obj.insert_Data();
-    obj.ordenar_Data();
-    obj.mostrar_Data();
+    cout<<"\n*****Shell Sort*****\n";
+    Shesort obj4{};
+    obj4.insert_Data();
+    obj4.ordenar_Data();
+    obj4.mostrar_Data();
 }
